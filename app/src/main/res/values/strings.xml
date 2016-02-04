@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">YoFightMe</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="random_user_url">http://yofightme.mjrosengrant.com/get_random_user.php</string>
+    <string name="action_settings">Settings</string>
+    <string name="appName">YoFightMe</string>
+    <string name="title_activity_view_all_users">ViewAllUsersActivity</string>
+
+</resources>
